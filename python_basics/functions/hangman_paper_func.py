@@ -4,3 +4,6 @@ def pick_a_word():
   return random.choice(words)
 print(pick_a_word())
 
+def play():
+
+
