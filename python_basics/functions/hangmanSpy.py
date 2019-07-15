@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Mon Jul 15 08:38:03 2019
+Created on Mon Jul 15 16:13:12 2019
 
 @author: davidlobe
 """
-#polite_function
+
 import random
 
 words = ['chicken', 'dog', 'cat', 'mouse', 'frog']
